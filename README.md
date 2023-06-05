@@ -7,7 +7,6 @@ This project, Libft, is the first project of the 42 cursus. The goal is to recre
 - [Introduction](#introduction)
 - [Usage](#usage)
 - [Building the Library](#building-the-library)
-- [Contributing](#contributing)
 - [Contact](#contact)
 - [License](#license)
 
@@ -24,3 +23,17 @@ To use the Libft library in your project, follow these steps:
 3. Compile your project with the Libft library: gcc -o your_program your_program.c -L/path/to/libft -lft
 4. Run your program: ./your_program
 
+## Building the Library
+
+To build the Libft library, follow these steps:
+1. Clone the repository:
+ git clone https://github.com/your_username/libft.git
+2. Navigate to the libft directory:
+  cd libft
+3. Run the make command:
+  make
+4. The libft.a library file will be generated in the libft directory.
+
+## Contact
+* email : abdelilah.benlahbib@gmail.com
+* login : abenlahb
