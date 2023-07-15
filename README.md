@@ -8,7 +8,6 @@ This project, Libft, is the first project of the 42 cursus. The goal is to recre
 - [Usage](#usage)
 - [Building the Library](#building-the-library)
 - [Contact](#contact)
-- [License](#license)
 
 ## Introduction
 
